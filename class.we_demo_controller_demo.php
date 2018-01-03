@@ -9,7 +9,7 @@
 
 
 /**
- * 授权登录控制器Demo
+ * 授权登录控制器Demo反对法地方官梵蒂冈梵蒂冈的
  * @version 2015-09-15
  */
 class WeDemoControllerDemo
